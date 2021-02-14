@@ -3,6 +3,8 @@
 A new Flutter application.
 This application will help business users to easily maintain their customers loan and pay entries. They can easily create customer entries, search user, update their payments, and can check the payment history.
 
+If you like this project, Please give it a star!
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
