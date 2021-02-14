@@ -1,6 +1,7 @@
 # Pocket_Khata
 
 A new Flutter application.
+This application will help business users to easily maintain their customers loan and pay entries. They can easily create customer entries, search user, update their payments, and can check the payment history.
 
 ## Getting Started
 
