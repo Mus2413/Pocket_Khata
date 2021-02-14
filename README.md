@@ -1,4 +1,4 @@
-# khata
+# Pocket_Khata
 
 A new Flutter application.
 
